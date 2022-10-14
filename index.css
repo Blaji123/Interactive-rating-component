@@ -15,7 +15,31 @@ body{
     margin-left:20px;
 }
 #text-container{
-   display:block;
-   margin-top:auto;
-   margin-bottom:auto;
+   display: block;
+   width: 80%;
+   margin-top:40px;
+   margin-left:auto;
+   margin-right:auto;
+}
+#text-container h1{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+}
+#text-container{
+    color:hsl(216, 12%, 54%);
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+#button-container{
+    display:flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+}
+button{
+    margin-left:10px;
+    margin-right:10px;
+    border-radius: 50%;
+    width:50px;
+    height:50px;
 }
