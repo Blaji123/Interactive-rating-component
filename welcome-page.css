@@ -1,0 +1,9 @@
+body{
+    background-color:hsl(213, 19%, 18%);
+}
+#thank-you-ilustration{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}

@@ -3,7 +3,9 @@
 }
 body{
     background-color:hsl(213, 19%, 18%);
-    height:100%;
+}
+a{
+    text-decoration: none;
 }
 #star-icon{
     margin-top:35%;
