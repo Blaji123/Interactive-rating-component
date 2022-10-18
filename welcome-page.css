@@ -7,3 +7,39 @@ body{
     margin-right:auto;
     margin-top:50px;
 }
+#text-container{
+    display: block;
+    width: 80%;
+    margin-top:40px;
+    margin-left:auto;
+    margin-right:auto;
+ }
+ #background-p-el{
+    display:block;
+    background-color:hsla(216, 6%, 40%,0.1);
+    border-radius:40px;
+    width:200px;
+    height:30px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:25px;
+}
+ #p-el{
+    display:block;
+    margin-left:24px;
+    padding-top:5px;
+    color:hsl(25, 97%, 53%);
+ }
+h2{
+    text-align: center;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+}
+#second_p{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    color:hsl(216, 12%, 54%);
+    font-family: 'Lato', sans-serif;
+    font-size:15px;
+}
